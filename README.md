@@ -15,5 +15,5 @@ I'm a frontend developer passionate about building beautiful and user-friendly i
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=%F05032&color=black)
 ### Links
 
-[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/.g0odthey)
+[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/g0odthey)
 [![Static Badge](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=%23FF0069)](https://www.instagram.com/papetin.teo/)
