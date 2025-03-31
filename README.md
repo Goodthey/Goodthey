@@ -1,6 +1,7 @@
 ![Header](https://github.com/Goodthey/Goodthey/blob/main/assets/fool-moon-night2.jpg)
 
-## My name is Fyodor. I'm 22 years old. Software Engeneer from Moscow
+## A software engineer who loves football ![image](https://github.com/user-attachments/assets/10b55257-9f5a-4938-88a1-76679eeb3772)
+
 
 ### Languages and Tools
 
