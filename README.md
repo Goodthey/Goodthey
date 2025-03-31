@@ -1,4 +1,4 @@
-![Header](https://github.com/Goodthey/Goodthey/blob/main/assets/fool-moon-night.jpg)
+![Header](https://github.com/Goodthey/Goodthey/blob/main/assets/fool-moon-night2.jpg)
 
 ## My name is Fyodor. I'm 22 years old. Software Engeneer from Moscow
 
