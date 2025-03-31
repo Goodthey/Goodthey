@@ -1,6 +1,10 @@
 ![Header](https://github.com/Goodthey/Goodthey/blob/main/assets/fool-moon-night2.jpg)
 
-## Software engineer from Moscow | BVB fan <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg" width="25">
+## Hey everyone!
+
+I'm a frontend developer passionate about building beautiful and user-friendly interfaces. I love clean code, modern technologies, and, of course, Borussia Dortmund (BVB).  
+
+![BVB](https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg)
 
 
 ### Languages and Tools
