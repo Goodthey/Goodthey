@@ -1,7 +1,7 @@
 ![Header](https://github.com/Goodthey/Goodthey/blob/main/assets/fool-moon-night2.jpg)
 
 ## Hey everyone! 
-I'm a frontend developer passionate about building beautiful and user-friendly interfaces. I love clean code, modern technologies, and, of course, Borussia Dortmund (BVB) <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg" width="25">
+I'm a frontend developer passionate about building beautiful and user-friendly interfaces. I love clean code, modern technologies, and, of course, Borussia Dortmund (BVB) <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg" width="22">
 
 
 
