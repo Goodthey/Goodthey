@@ -1,6 +1,6 @@
 ![Header](https://github.com/Goodthey/Goodthey/blob/main/assets/fool-moon-night2.jpg)
 
-## A software engineer who loves football <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg" width="20">
+## Software engineer, BVB fan <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg" width="20">
 
 
 ### Languages and Tools
